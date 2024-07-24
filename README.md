@@ -1,5 +1,4 @@
 Hello I'm Sandy :fleur_de_lis:
-
 Creative Thinking :point_right: Coding :point_right: DIY
 
 <p align="center">
