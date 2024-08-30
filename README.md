@@ -1,5 +1,5 @@
 Hello We're Saandee <br />
-Creative Thinking :point_right: Coding :point_right: Do It Myself
+:high_brightness: Creative Thinking :sparkles: Coding :wrench: Do It Myself
 
 <p align="left">
   <a href="https://skillicons.dev">
