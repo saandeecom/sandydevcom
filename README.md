@@ -1,9 +1,8 @@
-Hello I'm Sandy :fleur_de_lis:
-Creative Thinking :point_right: Coding :point_right: DIY
+Hello We're Saandee <br />
+Creative Thinking :point_right: Coding :point_right: Do It Myself
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,vue,mysql,mongodb,wordpress,docker,git,bash" /><br />
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma,ableton," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
 </p>
